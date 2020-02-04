@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1580397636 source:c:\users\markazi.co\desktop\chatroom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdbool.h>
+	<string.h>
+	<winsock2.h>
+	"cJSON.c"
+	"cJSON.h"
+
+1576229370 c:\users\markazi.co\desktop\chatroom\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1576229369 c:\users\markazi.co\desktop\chatroom\cjson.h
+	<stddef.h>
+
